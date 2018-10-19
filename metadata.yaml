@@ -39,6 +39,7 @@ series_note: 'Little Blue Book # 1099'
 subjects:
 - !lcsh 'Essays'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: Civilization -- The gift o' gab -- Natura benigna -- The death penalty
   -- Immortality -- Emancipated woman -- A mad world -- Epigrams of a cynic.
 title: A Cynic Looks at Life
